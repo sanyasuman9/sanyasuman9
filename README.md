@@ -49,17 +49,3 @@ Building software, user interfaces, and machine learning systems through hands-o
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
 </p>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanyasuman9&show_icons=true&theme=onedark"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanyasuman9"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sanyasuman9&layout=compact"/>
-</p>
