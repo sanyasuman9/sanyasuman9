@@ -11,6 +11,8 @@ Building software, user interfaces, and machine learning systems through hands-o
 
 - 📫 Reach me through **sanyasuman09@gmail.com**
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sanya-suman/" target="_blank">
@@ -29,6 +31,8 @@ Building software, user interfaces, and machine learning systems through hands-o
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
   </a>
 </p>
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
