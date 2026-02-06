@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Sanya Suman</h1>
 <h3 align="center">Building Software, User Interface and Machine Learning Systems through hands-on projects and experimentation.</h3>
 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/d4/99/3b/d4993b11af1f6b6968b1d56d3995a48b.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyasuman9&label=Profile%20views&color=0e75b6&style=flat" alt="sanyasuman9" /> </p>
 
 <h3 align="left">Connect with me:</h3>
