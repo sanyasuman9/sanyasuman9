@@ -1,19 +1,23 @@
-<h1 align="center">Hi, I'm Sanya Suman</h1>
+<h1 align="center">Hi, I'm Sanya Suman </h1>
 <h3 align="center">
 Building software, user interfaces, and machine learning systems through hands-on projects and experimentation.
 </h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/d4/99/3b/d4993b11af1f6b6968b1d56d3995a48b.jpg">
+<br>
+
+<img align="right" alt="coding illustration" width="360"
+src="https://i.pinimg.com/736x/d4/99/3b/d4993b11af1f6b6968b1d56d3995a48b.jpg">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sanyasuman9&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sanyasuman9&label=Profile%20views&color=0e75b6&style=flat"
+       alt="profile views" />
 </p>
 
 - 📫 Reach me through **sanyasuman09@gmail.com**
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sanya-suman/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
@@ -34,7 +38,7 @@ Building software, user interfaces, and machine learning systems through hands-o
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
@@ -54,4 +58,19 @@ Building software, user interfaces, and machine learning systems through hands-o
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
 </p>
 
+<hr>
 
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyasuman9&show_icons=true" />
+</p>
+
+<hr>
+
+<h3 align="left">📌 Featured Projects</h3>
+
+<ul>
+  <li><b>Career-Pilot-AI</b> – AI-powered career guidance and resume-related tools</li>
+  <li><b>Speaker-Diarization-using-Pyannote</b> – Speaker diarization experiments using Pyannote pipelines and preprocessing</li>
+  <li><b>Review-Verse</b> – Review-based application focused on user feedback, suggestions and analysis of movies, books and series</li>
+</ul>
