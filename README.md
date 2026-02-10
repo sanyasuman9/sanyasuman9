@@ -60,17 +60,5 @@ src="https://i.pinimg.com/736x/d4/99/3b/d4993b11af1f6b6968b1d56d3995a48b.jpg">
 
 <hr>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyasuman9&show_icons=true" />
-</p>
 
-<hr>
 
-<h3 align="left">📌 Featured Projects</h3>
-
-<ul>
-  <li><b>Career-Pilot-AI</b> – AI-powered career guidance and resume-related tools</li>
-  <li><b>Speaker-Diarization-using-Pyannote</b> – Speaker diarization experiments using Pyannote pipelines and preprocessing</li>
-  <li><b>Review-Verse</b> – Review-based application focused on user feedback, suggestions and analysis of movies, books and series</li>
-</ul>
