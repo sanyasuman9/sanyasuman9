@@ -60,5 +60,12 @@ src="https://i.pinimg.com/736x/d4/99/3b/d4993b11af1f6b6968b1d56d3995a48b.jpg">
 
 <hr>
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sanyasuman9&theme=aura_dark&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=sanyasuman9&theme=aura_dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyasuman9&theme=aura_dark&hide_border=false&layout=compact)
 
 
